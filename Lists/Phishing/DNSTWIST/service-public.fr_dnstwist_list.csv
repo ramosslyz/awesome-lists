@@ -28,7 +28,7 @@ addition,service-publico.fr,,,,
 addition,service-publicp.fr,,,,
 addition,service-publicq.fr,,,,
 addition,service-publicr.fr,,,,
-addition,service-publics.fr,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
+addition,service-publics.fr,104.247.81.99,!ServFail,mail.h-email.net,ns1.parkingcrew.net
 addition,service-publict.fr,,,,
 addition,service-publicu.fr,,,,
 addition,service-publicv.fr,,,,
@@ -902,7 +902,7 @@ insertion,zservice-public.fr,,,,
 omission,ervice-public.fr,,,,
 omission,serice-public.fr,46.175.135.11,!ServFail,mail.parktons.com,ns1.radinko.com
 omission,servce-public.fr,,,,
-omission,servic-public.fr,,,mail.h-email.net,ns1.parkingcrew.net
+omission,servic-public.fr,104.247.81.99,!ServFail,mail.h-email.net,ns1.parkingcrew.net
 omission,service-pblic.fr,,,,
 omission,service-pubic.fr,51.89.24.232,,,dns1.namebay.com
 omission,service-publc.fr,,,,
