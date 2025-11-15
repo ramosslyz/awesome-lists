@@ -1421,7 +1421,7 @@ insertion,mlabanquepostale.fr,,,,
 insertion,olabanquepostale.fr,,,,
 insertion,plabanquepostale.fr,,,,
 omission,abanquepostale.fr,104.247.81.99,!ServFail,mail.h-email.net,ns1.parkingcrew.net
-omission,laanquepostale.fr,104.247.81.99,!ServFail,mail.h-email.net,ns1.parkingcrew.net
+omission,laanquepostale.fr,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
 omission,labanqepostale.fr,104.247.81.99,!ServFail,mail.h-email.net,ns1.parkingcrew.net
 omission,labanqueostale.fr,104.247.81.99,!ServFail,mail.h-email.net,ns1.parkingcrew.net
 omission,labanquepostae.fr,,,,
@@ -1502,6 +1502,7 @@ replacement,labanqurpostale.fr,,,,
 replacement,labanquspostale.fr,,,,
 replacement,labanquwpostale.fr,,,,
 replacement,labanquzpostale.fr,,,,
+replacement,labanqyepostale.fr,192.155.84.236,2600:3c01::f03c:95ff:fe00:29ca,,lunlun.ns.giantpanda.com
 replacement,labanqzepostale.fr,,,,
 replacement,labanwuepostale.fr,,,,
 replacement,labanzuepostale.fr,,,,
@@ -1513,7 +1514,6 @@ replacement,laganquepostale.fr,,,,
 replacement,lahanquepostale.fr,,,,
 replacement,lavanquepostale.fr,146.148.34.125,!ServFail,mail.hope-mail.com,ns4.dnsauthority.com
 replacement,lananquepostale.fr,172.233.219.123,,mx.plingest.com,ns4.dnsauthority.com
-replacement,labanqyepostale.fr,192.155.84.236,2600:3c01::f03c:95ff:fe00:29ca,,lunlun.ns.giantpanda.com
 replacement,lsbanquepostale.fr,,,,
 replacement,lwbanquepostale.fr,,,,
 replacement,lybanquepostale.fr,,,,
