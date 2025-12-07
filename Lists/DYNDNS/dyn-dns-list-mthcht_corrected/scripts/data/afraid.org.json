@@ -200446,5 +200446,17 @@
     "domain": "raapro.com",
     "age": "68 days ago (09/29/2025)",
     "retrievedAt": "2025-12-06T21:13:15.901Z"
+  },
+  {
+    "id": "1182787",
+    "domain": "krpan.no",
+    "age": "3317 days ago (11/07/2016)",
+    "retrievedAt": "2025-12-07T21:12:09.346Z"
+  },
+  {
+    "id": "1465112",
+    "domain": "vialidapp.com",
+    "age": "27 days ago (11/09/2025)",
+    "retrievedAt": "2025-12-07T21:12:11.702Z"
   }
 ]
