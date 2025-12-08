@@ -1,14 +1,19 @@
+184.178.172.5:15303:United States
+184.178.172.23:4145:United States
 208.65.90.3:4145:United States
+143.110.217.153:1080:Canada
+161.35.31.237:1080:Germany
 198.177.254.157:4145:United States
-222.59.173.105:44103:China
+104.248.203.234:1080:The Netherlands
 121.169.46.116:1090:South Korea
+91.211.115.127:1080:The Netherlands
+107.174.82.16:21080:United States
 213.35.126.34:10808:Singapore
-195.98.82.62:1080:Russia
+45.144.234.129:53764:Finland
 164.92.119.198:1080:United States
-43.133.32.76:1777:Singapore
-157.10.135.73:1080:Bangladesh
-62.60.131.195:8024:France
-128.140.76.145:12523:United States
-128.140.76.145:23636:United States
+62.60.131.195:6253:United Kingdom
+45.56.115.58:7497:United States
+62.60.131.195:9728:United States
+128.140.76.145:17328:United States
 89.116.28.181:1080:France
-128.140.76.145:10243:United Kingdom
+154.37.155.7:1080:Hong Kong
